@@ -1,7 +1,7 @@
 # Welcome to my GitHub! :wave:
 
 ## :pushpin: About me
-I'm @a-zonato and I'm a **Physicist** (BSc degree), currently doing my specialization in ***Physics of Complex Systems*** (MSc degree). I have experience in working with data
+I'm Alessandro Zonato and I'm a **Physicist** (BSc degree), currently doing my specialization in ***Physics of Complex Systems*** (MSc degree). I have experience in working with data
 and AI, especially in **Neural Networks** and **Machine Learning** algorithms. I enjoy working on projects regarding a *learning process* and *Finance*, trying to link both
 worlds. In the near future I'd like to find myself working on applications of Machine Learning in **Financial Markets**.
 
