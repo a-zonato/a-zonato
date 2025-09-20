@@ -21,7 +21,7 @@ Currently I'm focused on the possibile applications of Machine Learning in Finan
 based on previous data, keeping in mind that markets are extremely volatile and irrational decisions are taken everyday.
 
 ## :mailbox: Contact me
-- :briefcase: [Linkedin](https://www.linkedin.com/alessandro-zonato)
+- :briefcase: [Linkedin](https://www.linkedin.com/in/alessandro-zonato/)
 - :envelope: [Gmail](mailto:azonato.work@gmail.com)
 
 <!---
