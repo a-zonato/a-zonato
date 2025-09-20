@@ -13,7 +13,7 @@ worlds. In the near future I'd like to find myself working on applications of Ma
 ## :open_file_folder: Projects
 | Project Name | Description | Languages |
 |----------------|:---------------|----------------|
-| Number 1 | Cool Description | Python |
+| MAS_Traffic | Multi Agent System: Traffic flow optizimation for the city of Turin with intelligent traffic lights| GAMA |
 | Number 2 | Another cool Description | Python |
 
 ## :bulb: Working on
@@ -21,7 +21,7 @@ Currently I'm focused on the possibile applications of Machine Learning in Finan
 based on previous data, keeping in mind that markets are extremely volatile and irrational decisions are taken everyday.
 
 ## :mailbox: Contact me
-- :briefcase: [Linkedin](https://www.linkedin.com/in/tuo-profilo)
+- :briefcase: [Linkedin](https://www.linkedin.com/alessandro-zonato)
 - :envelope: [Gmail](mailto:azonato.work@gmail.com)
 
 <!---
